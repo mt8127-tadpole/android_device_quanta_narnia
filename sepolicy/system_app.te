@@ -1,3 +1,0 @@
-# Give system apps access to the Mali GPU
-
-allow system_app mali_device:chr_file { read write getattr open ioctl };

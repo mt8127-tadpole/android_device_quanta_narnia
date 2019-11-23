@@ -1,2 +1,0 @@
-#Let bootanimation use the Mali GPU or something
-allow bootanim mali_device:chr_file { read write ioctl open getattr };
