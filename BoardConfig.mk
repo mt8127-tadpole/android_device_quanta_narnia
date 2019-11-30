@@ -12,7 +12,7 @@ TARGET_PREBUILT_KERNEL := $(DEVICE_DIR)/prebuilt/kernel
 -include vendor/quanta/narnia/BoardConfigVendor.mk
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := narnia
+TARGET_OTA_ASSERT_DEVICE := narnia UYT2
 
 TARGET_BOOTLOADER_BOARD_NAME := narnia
 
