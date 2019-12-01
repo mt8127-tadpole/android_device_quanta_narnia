@@ -75,6 +75,7 @@ system/lib/libdpframework.so
 system/lib/libdrmmtkutil.so
 system/lib/libfeatureio.so
 system/lib/libfile_op.so
+system/lib/libft.so
 system/lib/libGdmaScalerPipe.so
 system/lib/libGLESv3.so
 system/lib/libgralloc_extra.so
