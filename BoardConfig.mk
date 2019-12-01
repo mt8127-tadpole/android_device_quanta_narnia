@@ -1,7 +1,7 @@
 # Kernel
 TARGET_KERNEL_CONFIG := cyanogenmod_narnia_defconfig
 BOARD_KERNEL_CMDLINE := androidboot.selinux=permissive
-TARGET_PREBUILT_KERNEL := $(DEVICE_DIR)/prebuilt/kernel
+TARGET_PREBUILT_KERNEL := device/quanta/narnia/prebuilt/kernel
 
 # inherit from common mt8127
 -include device/mediatek/mt8127-common/BoardConfigCommon.mk
