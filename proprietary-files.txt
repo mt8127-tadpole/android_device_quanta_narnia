@@ -266,3 +266,6 @@ system/etc/.tp/thermal.off.conf
 #system/framework/mediatek-common.jar
 #system/framework/mediatek-framework.jar
 #system/framework/mediatek-telephony-common.jar
+
+# Modules (Wifi)
+system/lib/modules/wlan.ko
