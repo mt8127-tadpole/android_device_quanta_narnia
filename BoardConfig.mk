@@ -1,5 +1,5 @@
 # Kernel
-#TARGET_KERNEL_CONFIG := cyanogenmod_narnia_defconfig
+TARGET_KERNEL_CONFIG := cyanogenmod_narnia_defconfig
 BOARD_KERNEL_CMDLINE := androidboot.selinux=permissive
 TARGET_PREBUILT_KERNEL := $(DEVICE_DIR)/prebuilt/kernel
 
