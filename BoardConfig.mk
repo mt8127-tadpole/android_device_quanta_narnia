@@ -10,7 +10,7 @@ TARGET_PREBUILT_KERNEL := device/quanta/narnia/prebuilt/kernel
 -include vendor/mediatek/mt8127-common/BoardConfigVendor.mk
 
 -include vendor/quanta/narnia/BoardConfigVendor.mk
-
+-include device/quanta/narnia/ProjectConfig.mk
 # Assert
 TARGET_OTA_ASSERT_DEVICE := narnia,UYT,UYT2,UYT3
 
