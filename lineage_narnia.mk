@@ -5,7 +5,7 @@ $(call inherit-product, device/quanta/narnia/device.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 
 PRODUCT_DEVICE := narnia
-PRODUCT_NAME := cm_narnia
+PRODUCT_NAME := lineage_narnia
 PRODUCT_BRAND := LeapFrog
 PRODUCT_MODEL := narnia
 PRODUCT_MANUFACTURER := quanta
