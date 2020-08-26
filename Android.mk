@@ -1,6 +1,6 @@
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),ttab)
+ifeq ($(TARGET_DEVICE),narnia)
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 

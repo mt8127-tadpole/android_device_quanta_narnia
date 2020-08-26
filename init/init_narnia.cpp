@@ -48,12 +48,12 @@ void property_override(char const prop[], char const value[])
 
 void vendor_load_properties()
 {
-	property_override("ro.build.fingerprint", "T-Mobile/Telekom_Puls/T-Tab:5.0.1/LRX21M/vC29-0:user/release-keys");
-	property_override("ro.build.description", "Telekom_Puls-user 5.0.1 LRX21M vC29-0 release-keys");
-	property_override("ro.product.model", "Telekom Puls");
-	property_override("ro.product.device", "T-Tab");
-	property_override("ro.product.brand", "T-Mobile");
-	property_override("ro.product.manufacturer", "TCT Mobile Europe SAS");
+	property_override("ro.build.fingerprint", "Narnia fingerprint FIXME");
+	property_override("ro.build.description", "Narnia description FIXME");
+	property_override("ro.product.model", "Quanta Narnia");
+	property_override("ro.product.device", "Epic");
+	property_override("ro.product.brand", "Leapfrog");
+	property_override("ro.product.manufacturer", "Quanta");
 
-    ERROR("setting build properties for T-Tab\n");
+    ERROR("setting build properties for Narnia\n");
 }

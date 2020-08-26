@@ -1,5 +1,5 @@
 #
-# system.prop for ttab
+# system.prop for narnia
 #
 ro.sf.lcd_density=213
 debug.hwui.render_dirty_regions=false

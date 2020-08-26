@@ -1,5 +1,5 @@
 ROOT="${PWD}"
-DEVICE_DIR="device/alcatel/ttab"
+DEVICE_DIR="device/quanta/narnia"
 REPOSITORIES=(
     'frameworks/av'
 )

@@ -1,4 +1,4 @@
-LOCAL_PATH  := device/alcatel/ttab
+LOCAL_PATH  := device/quanta/narnia
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 
@@ -149,4 +149,4 @@ PRODUCT_PACKAGES += \
     libbt-vendor
 
 # Get non-open-source specific aspects
-$(call inherit-product-if-exists, vendor/alcatel/ttab/ttab-vendor.mk)
+$(call inherit-product-if-exists, vendor/quanta/narnia/narnia-vendor.mk)
