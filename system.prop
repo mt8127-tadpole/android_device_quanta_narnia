@@ -2,6 +2,7 @@
 # system.prop for narnia
 #
 ro.sf.lcd_density=160
+ro.sf.hwrotation=180
 debug.hwui.render_dirty_regions=false
 ro.opengles.version=131072
 ro.audio.silent=0
