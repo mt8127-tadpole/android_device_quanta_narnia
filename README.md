@@ -15,12 +15,31 @@ GPU     | Mali-450MP
 Memory  | 1GB RAM
 Shipped Android Version | 4.4.2
 Kernel  | 3.4.67
-Storage | 8GB
+Storage | 16GB
 Display | 7" 1024 x 600 px
-Camera  | 2.0MP (Front-Facing)/ 2.0 (Back)
+Cameras | 2.0MP front, 2.0MP rear
+
+## Build
+Not Working
+
+* NVRAM has issues (SELinux permissions?)
+* Cameras
+* Battery life needs work
+* Headphone jack doesn't detect any devices
+* Some performance issues
+
+Working
+
+* HWC
+* Wifi/Bluetooth
+* 2D/3D acceleration
+* Accelerometer
+* Touchscreen
+* Basic audio
 
 ## Copyright
 
+```
 #
 # Copyright (C) 2012 The Cyanogenmod Project
 #
@@ -36,10 +55,13 @@ Camera  | 2.0MP (Front-Facing)/ 2.0 (Back)
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
+```
 ###### Maintainers
+-mac2612 [github](https://github.com/mac2612)
+
 -Kaijones23 [xda](https://forum.xda-developers.com/member.php?u=9605864)|[github](https://github.com/488315)
 
 -huckleberrypie [xda](http://forum.xda-developers.com/member.php?u=4092918)|[github](https://github.com/huckleberrypie)
 
 -R0rtiz [xda](https://forum.xda-developers.com/member.php?u=8978978)|[github](https://github.com/R0rt1z2)
+
