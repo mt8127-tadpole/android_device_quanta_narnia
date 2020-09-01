@@ -48,12 +48,14 @@ void property_override(char const prop[], char const value[])
 
 void vendor_load_properties()
 {
-	property_override("ro.build.fingerprint", "Narnia fingerprint FIXME");
-	property_override("ro.build.description", "Narnia description FIXME");
-	property_override("ro.product.model", "Quanta Narnia");
-	property_override("ro.product.device", "Epic");
-	property_override("ro.product.brand", "Leapfrog");
-	property_override("ro.product.manufacturer", "Quanta");
+	property_override("ro.build.fingerprint", "LeapFrog2/EPIC2/UYT2:4.4.2/KOT49H/20171215.140555:user/release-keys"); // this should be changed to a certified fingerprint
+	property_override("ro.build.description", "EPIC2-user 4.4.2 KOT49H 20171215.140555 release-keys");
+	property_override("ro.product.model", "EPICv2");
+	property_override("ro.product.device", "UYT2");
+	property_override("ro.product.brand", "LeapFrog2");
+	property_override("ro.product.manufacturer", "LeapFrog");
+	property_override("ro.product.board", "quanta27_tb_uyt_kk");
+	property_override("ro.product.name", "EPIC2");
 
     ERROR("setting build properties for Narnia\n");
 }
