@@ -27,6 +27,7 @@ Not Working
 * Battery life needs work
 * Some performance issues due to certain services
 * HWC/ION error log spam
+* 1080p video lag (codec issues? LOS14.1 for ford also has similar problems apparently) 
 
 Working
 
