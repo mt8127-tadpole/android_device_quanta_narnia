@@ -25,8 +25,8 @@ Not Working
 * NVRAM has issues (SELinux permissions?)
 * Cameras
 * Battery life needs work
-* Headphone jack doesn't detect any devices
-* Some performance issues
+* Some performance issues due to certain services
+* HWC/ION error log spam
 
 Working
 
@@ -35,7 +35,7 @@ Working
 * 2D/3D acceleration
 * Accelerometer
 * Touchscreen
-* Basic audio
+* Audio (internal and headset)
 
 ## Copyright
 
