@@ -39,6 +39,22 @@ Working
 * Audio (internal and headset)
 * Internal microphone
 
+
+## Compilation
+
+        # repo init -u git://github.com/LineageOS/android.git -b cm-14.1
+        
+        # repo sync
+        
+        # cd device/quanta/narnia/patches/patch.sh
+        
+        # . build/envsetup.sh
+
+        # lunch lineage_narnia-eng
+
+        # make clean && make bacon
+        
+
 ## Copyright
 
 ```
@@ -58,6 +74,7 @@ Working
 # limitations under the License.
 #
 ```
+
 ###### Maintainers
 -mac2612 [github](https://github.com/mac2612)
 
