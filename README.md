@@ -23,8 +23,8 @@ Cameras | 2.0MP front, 2.0MP rear
 Not Working
 
 * NVRAM has issues (SELinux permissions?)
-* Pictures taken by the camera appear to be rotated by 90 degrees
-* Battery life needs work
+* Video recording crashes the camera app
+* Battery life is pathetically horrible and needs optimisation
 * Some performance issues due to certain services
 * HWC/ION error log spam
 * 1080p video lag (codec issues? LOS14.1 for ford also has similar problems apparently. Videos are rendered through software) 
