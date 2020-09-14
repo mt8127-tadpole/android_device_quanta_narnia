@@ -1,6 +1,6 @@
 ## Device configuration for LeapFrog Epic
 
-The LeapFrog Epic (codenamed "narnia/UYT") is an Android-powered mini tablet computer developed and marketed by LeapFrog and manufactured by Quanta Computer. As with all of LeapFrog's devices, the Epic is designed and marketed primarily as an educational device for children ages 3-9, with bespoke software designed to teach children about elementary school subjects such as language, maths and geography amongst other things. Under the bonnet, it shares a lot in common with entry-level 
+The LeapFrog Epic (codenamed "narnia/UYT") is an Android-powered mini tablet computer developed and marketed by LeapFrog and manufactured by Quanta Computer. As with all of LeapFrog's devices, the Epic is designed and marketed primarily as an educational device for children ages 3-9, with bespoke software designed to teach children about elementary school subjects such as language, maths and geography amongst other things. Under the bonnet, it shares a lot in common with entry-level, discount-price tablets such as the Amazon Fire line of tablets and was even made by the same OEM.
 
 It was announced on August 2015 and released on September 2015. Updated variants of the device such as the LeapFrog Epic Academy Edition and the LeapPad Academy were also released in 2017 and 2019 respectively; they are essentially identical to the base model apart from (slightly) updated firmware, redesigned bumpers and access to the LeapFrog Academy programme.
 
